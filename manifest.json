@@ -1,0 +1,20 @@
+﻿{
+  "name": "Dentmarket.kiev.ua",
+  "short_name": "Dentmarket",
+  "start_url": "https://dentmarket.kiev.ua/",
+  "background_color": "#fff",
+  "display": "minimal-ui",  
+  "theme_color": "#fff",
+  "scope": "/",
+  "lang": "uk",
+  "orientation":"any",
+  "description": "shop for dentists",
+  "icons": [
+    {
+      "src": "/image/catalog/pwa512w_last.png",
+      "type": "image/png",
+"sizes": "512x512","purpose": "maskable any"}
+
+  ]
+}
+
